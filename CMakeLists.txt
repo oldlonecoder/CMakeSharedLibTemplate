@@ -68,5 +68,5 @@ add_custom_command(
             install_manifest.txt to be uninstalled!
 )
 
-# Do you use tests?
+# Do you tests?
 #add_subdirectory(Tests)
