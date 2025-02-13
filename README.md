@@ -1,5 +1,5 @@
 # CMakeSharedLibTemplate
-My CMake Generic Template for shared library in c++
+My CMake Generic Template for shared library on LinuxOS, for standalone C++ projects
 
-Simple CMake project template for c++ shared library development 
-+ some other common files.
+- It's not complete, I am just starting it.
+- 
