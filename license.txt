@@ -1,19 +1,19 @@
-/******************************************************************************************
- *   Copyright (C) 1965/1987/2023 by Serge Lussier                                        *
- *   serge.lussier@oldlonecoder.club                                                      *
- *   lussier.serge@gmail.com                                                              *
- *                                                                                        *
- *   Unless otherwise specified, all Code in this project is written                      *
- *   by the author (Serge Lussier)                                                        *
- *   and no one else and not even {copilot, chatgpt, or any other AI calamities}          *
- *   ----------------------------------------------------------------------------------   *
- *   Copyrights from authors other than Serge Lussier also apply here                     *
- *   Open source FREE licences also apply to the Code from the same author (Serge Lussier)*
- *   ----------------------------------------------------------------------------------   *
- *   Below is my prefered opensource free license bsd-2 clauses text/version that apply   *
- *   to all my personal published free open source projects :                             *
- ******************************************************************************************/
-
+////////////////////////////////////////////////////////////////////////////////////////////
+//   Copyright (C) ...,2025,... by Serge Lussier
+//   serge.lussier@oldlonecoder.club / lussier.serge@gmail.com
+//   ----------------------------------------------------------------------------------
+//   Unless otherwise specified, all Codes and files in this project is written
+//   by the author and owned by the author (Serge Lussier), unless otherwise specified.
+//   ----------------------------------------------------------------------------------
+//   Copyrights from authors other than Serge Lussier also apply here.
+//   Open source FREE licences also apply to the code from the author (Serge Lussier)
+//   ----------------------------------------------------------------------------------
+//   Usual GNU FREE GPL-1,2, MIT... or whatever -  apply to this project.
+//   ----------------------------------------------------------------------------------
+//   NOTE : All source code that I am the only author, I reserve for myself, the rights to
+//   make it to restricted private license.
+////////////////////////////////////////////////////////////////////////////////////////////
+//------------------------------------------------------------------------------------------
 
 Copyright 2023 oldlonecoder (serge.lussier@oldlonecoder.club/lussier.serge@gmail.com)
 
