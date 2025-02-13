@@ -12,7 +12,8 @@
 *.la
 *.a
 *.so.*
-
+*.app
+*.journal
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -317,3 +318,4 @@ CMakeLists.txt.user*
 .qtc/
 .cmake/
 .qtc_clangd/
+.cache/
